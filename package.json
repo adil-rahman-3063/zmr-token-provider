@@ -12,12 +12,12 @@
   "dependencies": {
     "bgutils-js": "^3.2.0",
     "jsdom": "^26.1.0",
-    "youtubei.js": "^15.0.0"
+    "youtubei.js": "^16.0.1"
   },
   "devDependencies": {
     "@types/jsdom": "^21.1.7",
     "@types/node": "^24.0.15",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   }
 }
