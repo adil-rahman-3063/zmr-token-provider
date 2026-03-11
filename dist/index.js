@@ -8,7 +8,7 @@ const jsdom_1 = require("jsdom");
 const youtubei_js_1 = require("youtubei.js");
 const http_1 = __importDefault(require("http"));
 // --- Configuration ---
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 const REQUEST_KEY = "O43z0dpjhgX20SCx4KAo";
 // --- Global State ---
 let usage = 0;

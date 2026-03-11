@@ -4,7 +4,7 @@ import { Innertube } from "youtubei.js";
 import http, { IncomingMessage, ServerResponse } from "http";
 
 // --- Configuration ---
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 const REQUEST_KEY = "O43z0dpjhgX20SCx4KAo";
 
 // --- Global State ---
